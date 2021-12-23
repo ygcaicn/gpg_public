@@ -44,5 +44,5 @@ gpg --keyserver keys.openpgp.org --recv-keys 10642018D86B4426
 # Verify fingerprint
 # A51A 946E 217A AB50 F7CB  4255 1064 2018 D86B 4426
 
-gpg -r 7CF1D03903C103D2 -o demo.tar.gpg -e demo.tar
+gpg -r 10642018D86B4426 -o demo.tar.gpg -e demo.tar
 ```
